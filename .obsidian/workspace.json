@@ -1,0 +1,163 @@
+{
+  "main": {
+    "id": "015c6cc8bdb6f02f",
+    "type": "split",
+    "children": [
+      {
+        "id": "133a0377a6cfec37",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "652607cc097c020d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Database/Credits/Revolving Windows.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c62a6c2ca8fee54d",
+    "type": "split",
+    "children": [
+      {
+        "id": "9aabadedbe3948ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "30d3c68ddb1693f4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "77bb65bc905b76d4",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "330f3d60e8f9563d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "047f66f52cb26c8d",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f6ce84341854450",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6918e2643df5db7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Database/Credits/Revolving Windows.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "592b098f5336d860",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Database/Credits/Revolving Windows.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6713ae03263a176c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "f323aac22ed99afb",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Database/Credits/Revolving Windows.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "652607cc097c020d",
+  "lastOpenFiles": [
+    "Drafts/27.06.2024.md",
+    "Drafts/28.06.2024.md",
+    "Database/Credits/Revolving Windows.md",
+    "Database/Cards/Cards.md",
+    "Database/Cards/Overdraft Limits.md",
+    "Drafts",
+    "Database/Credits/Credits.md",
+    "Database/Cards",
+    "Database/Credits",
+    "Welcome.md",
+    "Database"
+  ]
+}
