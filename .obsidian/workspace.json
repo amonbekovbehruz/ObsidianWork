@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "72284e0714699119",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Drafts/28.06.2024.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Database/Credits/Revolving Windows.md",
+                "file": "Drafts/28.06.2024.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Database/Credits/Revolving Windows.md",
+                "file": "Drafts/28.06.2024.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Database/Credits/Revolving Windows.md"
+                "file": "Drafts/28.06.2024.md"
               }
             }
           }
@@ -146,11 +159,18 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "652607cc097c020d",
+  "active": "72284e0714699119",
   "lastOpenFiles": [
     "Drafts/27.06.2024.md",
-    "Drafts/28.06.2024.md",
+    "Bank System/Loan/Loan.md",
+    "Bank System/Loan/How a loan is issued.md",
+    "CSharp Codebase/Enums/ExtendedTransactionType.md",
+    "Bank System/Loan",
+    "Bank System",
+    "CSharp Codebase/Enums",
     "Database/Credits/Revolving Windows.md",
+    "CSharp Codebase",
+    "Drafts/28.06.2024.md",
     "Database/Cards/Cards.md",
     "Database/Cards/Overdraft Limits.md",
     "Drafts",
