@@ -2,17 +2,22 @@
 # Dependencies
 vendor/
 
-# Compiled binaries
-*.o
-*.obj
-*.a
-*.so
-*.dll
-*.exe
-*.out
+# Logs and temp files
+*.log
+*.tmp
 
-# Go-specific
-*.test
-*.prof
-cover.out
+# Environment
+.env
+.env.local
+*.env.*
+
+# Editors
+.vscode/
+.idea/
+
+# Build artifacts
+bin/
+*.exe
+*.dll
+*.so
 ```
