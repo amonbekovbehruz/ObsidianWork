@@ -1,0 +1,18 @@
+```
+# Dependencies
+vendor/
+
+# Compiled binaries
+*.o
+*.obj
+*.a
+*.so
+*.dll
+*.exe
+*.out
+
+# Go-specific
+*.test
+*.prof
+cover.out
+```
